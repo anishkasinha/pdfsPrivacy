@@ -1,0 +1,1242 @@
+OpenAI Global Data Privacy Notice for Employees, Applicants and Candidates
+
+Last updated: October 1, 2024
+This Global Data Privacy Notice (“Data Privacy Notice”) describes how OpenAI OpCo, LLC and its
+subsidiaries/affiliates (collectively, “OpenAI”) collect, use, disclose, store, and otherwise process personal
+data in the context of job candidacy, employment or engagement with OpenAI. This Data Privacy Notice
+includes additional information for specific jurisdictions, available in the Addenda located here: EU/UK;
+U.S./Canada; Japan; and Singapore.
+We hold and process data on all current and former employees, workers, individual contractors, contingent
+workers, applicants, interview candidates, interns, agency workers, consultants, directors, members (i.e.
+partners) ("staff" or "you" or "your"), and third parties whose information you provide to us in connection with
+a job application or the employment or other working relationship.
+The OpenAI entity to which you submit an application for employment or with which you are providing services
+for (which we’ll refer to throughout this notice as the “Company,” “we,” “our,” or “us”) is responsible for the
+processing of your personal data. Purely for the purposes of this Data Privacy Notice, references to
+employment include engagement where you do work for us and you are not an employee.
+This Data Privacy Notice does not form part of any contract of employment or engagement you may have with
+the Company. We may undertake certain processing of personal data that is subject to additional or separate
+data privacy notice, and we shall bring these to your attention where relevant. If you have any questions about
+this Privacy Notice, or would like to access the information it contains in a different format please contact us at
+hr@OpenAI.com.
+
+OpenAI’s processing of personal data is in all cases subject to the
+requirements of applicable local law, internal policy, and where applicable or
+appropriate, any consultation requirements with worker representatives. To the
+extent this notice conflicts with local law in your jurisdictions, local law
+controls.
+
+For further information regarding your rights as described in this Notice, or to exercise any of your rights,
+please contact us at privacy@OpenAI.com.
+
+1.0 PROCESSING OF PERSONAL DATA
+The Company collects and processes your personal data for the purposes described in this Notice. Personal
+data means any information describing or relating to an identified or identifiable individual, or as otherwise
+defined in applicable law. An identifiable individual is one who can be identified, directly or indirectly, in
+particular by reference to an identifier such as a name, an identification number, location data, an online
+identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or
+social identity of that individual.
+We collect various types of personal data about you for the purposes described elsewhere in this Data Privacy
+Notice. Data that we may collect from or about you (depending on the specifics of your employment or
+engagement, your office location, or the time you spend at OpenAI) may include:
+
+Personal details
+
+Such as your name(s), , gender, nationality(ies), civil / marital status, date of
+birth, age, contact details, social security number, immigration / eligibility to
+work information, driver’s license, languages spoken, next-of-kin / dependent /
+emergency contact information, disability / reasonable adjustments
+information;
+
+Information about your
+recruitment and hire
+
+Such as skills and experience, qualifications, references, CV and application,
+information collected during the recruitment and interview process, results of
+credit reference check, financial sanction check and criminal record check if
+permitted by applicable law, right to work verification, outcome of your
+application, details of any offer made;
+
+Information about your
+employment and
+engagement
+
+Such as your contract/terms of employment or engagement, work contact,
+employee or payroll number, photograph, work location default hours, default
+language, time zone and currency for location, worker ID and system IDs,
+work biography, assigned business unit or group, reporting line, employment
+type (e.g., contingent worker/employee, full/part time), your hire/contract
+begin and end dates, cost center, working hours and patterns, reason(s) for a
+change in work status, exit interviews, references provided, and status
+(active/inactive/terminated). If you are subject to a redundancy or
+restructuring, we may collect information related to this including change
+plans, organization charts, consultation records, and selection and
+redeployment data;
+
+Regulatory data
+
+Such as records of registration with any applicable regulatory authority,
+regulated status, regulatory certificates and references;
+
+Information related to your
+compensation and
+benefits
+
+Such as your remuneration information, payments for leave/absence, bank
+account details, grade, tax information, benefit recipient information, details of
+available benefits, benefit coverage start and end date, expense claims and
+payments, loans, deductions, salary sacrifice arrangements, childcare
+vouchers, and share scheme information;
+
+Information about a leave
+or absence
+
+If you go on leave (such as family leave, or other types of leave such as
+bereavement leave, jury service, or compassionate leave) or otherwise take a
+term of absence while at OpenAI, we may collect information such as
+attendance and absence records (including dates and types of absence and
+relevant approvals).
+To the extent required by law, we may also collect other information about a
+specific type of leave of absence, including fit notes details of incapacity, work
+impact and adjustments, treatment and prognosis, manager and HR
+
+communications, return to work interviews, meeting records, medical reports,
+occupational health reports;
+Information about flexible
+working
+procedure
+
+Such as requests, consideration, correspondence, meeting notes and outcome
+records;
+
+Information related to your
+job performance
+
+Such as feedback, appraisals, and performance management and review
+information, outcomes and objectives, talent program assessments and
+records, succession plans;
+
+Such as training and development needs, training received, and assessments
+Information about your
+training and development completed;
+
+Information about
+disciplinary actions and
+grievances
+
+Such as allegations, complaints, investigations, and proceeding records and
+outcomes;
+
+Health and safety data (as Such as health and safety audits, screening requests and results, risk
+assessments, incident reports;
+applicable)
+
+Information related to your
+use of our offices,
+company devices, and
+other company assets
+
+Such as data generated from monitoring and management of company
+assets (e.g., closed circuit television footage, system and building login and
+access records including badge swipes, keystroke, download and print
+records, information about calls or meetings, data caught by IT security
+programs and filters);
+
+Information about employee Such as subject matter of litigation and complaints, pre-claim conciliation,
+communications, settlement discussions, claim proceeding records, incident
+claims, complaints and
+reporting and disclosures. This also may include personal data related to
+disclosures
+OpenAI’s (or a third parties’) establishment, exercise and/or defense of rights
+generally; personal data required to comply with applicable law, or personal
+data relating to responses to law enforcement or government requests;
+
+Equality and diversity
+data
+
+Such as, where permitted by law and provided voluntarily, data regarding
+gender, age, race, nationality, religious belief and/or sexuality (which we treat
+as need-to-know and use, for example, to comply with federal contractor
+regulations where applicable);
+
+Other
+
+Such as any other personal data you choose to disclose verbally or in writing
+to Company personnel during the course of recruitment or your engagement;
+informal opinion data generated in the course of recruitment or your
+engagement relating to the administration or management of the Company's
+relationship with you. This may include, for instance, information relating to
+the conduct of OpenAI’s business, including carrying out roles and
+responsibilities, communications with colleagues and business partners, and
+internal reporting.
+Certain additional information will sometimes be collected where this is
+necessary and permitted by local applicable laws.
+
+SENSITIVE DATA
+To the extent permitted by applicable laws, and with your consent where required by applicable law, we may
+collect sensitive personal data (sometimes called special categories of personal data). This term means
+information relating to: racial or ethnic origin; political opinions; religious or philosophical beliefs; physical or
+mental health (including details of accommodations or adjustments); trade union membership; sex life or
+sexual orientation; biometric and genetic data; criminal records and information regarding criminal offenses or
+proceedings; financial information; or as otherwise defined by applicable data protection laws.
+2.0 HOW IS DATA COLLECTED
+The Company collects and records your personal data from a variety of sources, but mainly directly from you,
+and where required by applicable law, with your consent. You will usually provide this information directly to
+your managers or local Human Resources contact or enter it into our systems (for example, through your
+self-service access to our HR systems, your participation in HR processes, emails, Slack, and instant
+messages you send or through verbal information which may be recorded electronically or manually). In
+addition, further information about you will come from your managers or Human Resources or occasionally
+your colleagues.
+We also obtain some information from third parties: for example, references from a previous employer,
+medical reports from external professionals, information from tax authorities, benefit providers, where we
+employ a third party to carry out a background check (where permitted by applicable law), business partners,
+and government agencies and authorities.
+In some circumstances, data will sometimes be collected indirectly from monitoring devices or by other means
+(for example, building and location access control and monitoring systems, CCTV, telephone logs and
+recordings, instant message logs and email and Internet access logs), if and to the extent permitted by
+applicable laws. In these circumstances, the data may be collected by the Company or a third-party provider
+of the relevant service. This type of data is generally not accessed on a routine basis but access is possible.
+Access can occur, for instance, in situations where OpenAI is investigating possible violations of Company
+policies such as those relating to travel and expense reimbursement, use of the telephone system and the
+Internet, or employee conduct generally, or where the data are needed for compliance or billing purposes.
+More frequent access to such data may occur incidental to an email surveillance program, if and to the extent
+permitted by applicable laws.
+Where required by applicable law, when we ask you to provide personal data to us on a mandatory basis, we
+will inform you of this at the time of collection and in the event that particular information is required by the
+contract or statute this will be indicated. Failure to provide any mandatory information will mean that we
+cannot carry out certain HR processes. For example, if you do not provide us with your bank details, we will
+not be able to pay you. In some cases it may mean that we are unable to continue with your employment or
+
+engagement as the Company will not have the personal data we believe to be necessary for the effective and
+efficient administration and management of our relationship with you.
+Apart from personal data relating to you, you may also provide us with personal data of third parties, notably
+your dependents and other family members, for purposes of HR administration and management, including
+the administration of benefits and to contact your next-of-kin in an emergency. Before you provide such
+third-party personal data to us you must first inform (and where required by applicable law, obtain consent
+from) these third parties of any such data which you intend to provide to us and of the processing to be
+carried out by us, as detailed in this Data Privacy Notice.
+
+3.0 WHAT ARE THE PURPOSES FOR WHICH DATA ARE PROCESSED?
+Your personal data are collected and processed for business purposes, in accordance with applicable laws
+and any applicable collective bargaining agreements, and with your consent where required. The specific
+purposes for which we collect and process your data include:
+A. recruitment and hiring (including, for example, deciding whether and when to make an offer of
+employment, conducting any pre-employment checks including those required by applicable law, and
+purposes relating to your location of employment);
+B. to support HR administration and management and maintaining and processing general records
+necessary to manage the employment, worker or other relationship and operate the contract of
+employment or engagement, including:
+a. providing and administering compensation, benefits and incentive schemes and
+reimbursement of business costs and expenses and making appropriate tax and social
+security deductions and contributions;
+b. managing and operating appraisal, conduct, performance, capability, absence and grievance
+related reviews, allegations, complaints, investigations and processes and other informal and
+formal HR processes and making related management decisions;
+c. processing information about absence or medical information regarding physical or mental
+health or condition in order to: assess eligibility for incapacity or permanent disability related
+remuneration or benefits, determine fitness for work, facilitate a return to work; make
+adjustments or accommodations to duties or the workplace;
+d. make management decisions regarding employment or engagement or continued
+employment or engagement or redeployment;
+e. and conduct related management processes; and training, development, promotion, career
+and succession planning and business contingency planning;
+C. allocating and managing duties and responsibilities and the business activities to which they relate,
+including business travel, and for planning, managing, and carrying out restructuring or redundancies
+or other change programs;
+D. conducting surveys or other analyses for benchmarking and identifying improved ways of working,
+general business, operations, and office planning, and reasons related to employee relations and
+engagement at work;
+E. operating email, IT, internet, social media, HR related and other company policies and procedures. To
+the extent permitted by applicable laws, OpenAI carries out monitoring of the Company's IT systems
+to protect and maintain the integrity of the Company's IT systems and infrastructure; to ensure
+compliance with the Company's IT policies and to locate information through searches where needed
+
+for a legitimate business purpose;
+F. complying with applicable laws and regulation (for example maternity or parental leave legislation,
+working time and health and safety legislation, taxation rules, worker consultation requirements, other
+employment laws and regulation to which OpenAI the Company is subject in the conduct of its
+business), and satisfying our regulatory obligations to supervise the persons employed or appointed
+by the Company to conduct business on its behalf, including preventing, detecting and investigating a
+wide range of activities and behaviors, whether relating to specific business dealings or to the
+workplace generally, and liaising with regulatory authorities;
+G. to the extent permitted or required by applicable law, ensuring equality of opportunity and diversity
+with regard to personal characteristics protected under applicable anti-discrimination laws;
+H. for business operational and reporting documentation such as the preparation of annual reports or
+tenders for work or client team records, and planning, due diligence and implementation in relation to
+a commercial transaction or service transfers involving OpenAI that may impact your relationship with
+the Company, (for example mergers and acquisitions or a transfer of your employment under
+applicable automatic transfer rules);
+I.
+
+to operate the relationship with third-party customer and suppliers including the disclosure of relevant
+vetting information in accordance with relevant requirements of regulated customers, or disclosure of
+information to data processors for the provision of services to the Company;
+
+J. where relevant for publishing appropriate internal or external communications or publicity material,
+including via social media in appropriate circumstances;
+K. to comply with reference requests where the Company is named by the individual as a referee;
+L. to enforce our legal rights and obligations, and for any purposes in connection with any legal claims
+made by, against or otherwise involving you;
+M. to comply with lawful requests by public authorities (including without limitation to meet national
+security or law enforcement requirements), discovery requests, or where otherwise required or
+permitted by applicable laws, court orders, government regulations, or regulatory authorities (including
+without limitation data protection, tax and employment), whether within or outside your country.
+In addition, personal data will be collected for other purposes permitted by applicable laws, with your consent
+(where required) and upon notice.
+Sensitive personal data may be collected and processed by the Company for the following purposes, to the
+extent permitted or required by applicable law, and with your consent whenever required by applicable law:
+A. documentation such as work permits, details of residency, proof of citizenship will be processed to
+assess and review eligibility to work for the Company in the jurisdiction in which you work;
+B. financial information will be processed to ensure payment of wages, salaries, fees or other amounts
+owed to you, or benefits, as relevant to your situation;
+C. information related to your racial or ethnic origin, religion, philosophical or political belief, sexual
+orientation or sexual life, or disability status may be used for the collection of statistical data, or where
+required to record such characteristics to comply with equality and diversity requirements of applicable
+local legislation, or to keep the Company's commitment to equal opportunity under review. It may be
+used in the event of a complaint under the Company's grievance, whistleblowing, anti-bullying and
+harassment or similar policies where such characteristics or information are relevant to the particular
+
+complaint, in order to comply with employment law obligations;
+D. health and medical information may be used to comply with employment, health and safety or social
+security laws, such as to provide statutory incapacity or maternity benefits, avoid breaching legal
+duties to you, to ensure fair and lawful management of your employment, avoid unlawful termination of
+your employment, to administer the Company's private medical and long term disability schemes, to
+make reasonable accommodations or adjustments and avoid unlawful discrimination or dealing with
+complaints arising in this regard;
+E. trade union membership may be recorded to ensure that you receive any relevant rights that you may
+have in connection with any trade union membership, as required to enable us to meet our obligations
+under employment law; and
+F. biometric data for purposes of building access and security.
+
+4.0 DISCLOSURES OF PERSONAL DATA
+Within OpenAI, your personal data can be internally accessed or disclosed on a confidential basis to:
+●
+●
+
+●
+●
+
+local and global Human Resources staff, including managers and team members;
+local, regional and executive management responsible for managing or making decisions in
+connection with your relationship with the Company or when involved in an HR process concerning
+your relationship with the Company (including, without limitation, staff from Compliance, Legal,
+Employee Relations and Information Security);
+system administrators; and
+where necessary for the performance of specific tasks or system maintenance by staff in OpenAI
+teams such as the Finance and IT Department and the Global HR information systems support
+team.
+
+In addition, we may share personal data with the following:
+Other OpenAI
+employees
+
+Third parties with
+whom we work
+
+Certain basic personal data, such as your name, location, job title, contact
+information, employee number and any published skills and experience profile
+may also be accessible to OpenAI employees.
+
+Examples of third parties with whom your data will be shared include tax
+authorities, regulatory authorities, OpenAI’s insurers, bankers, IT administrators,
+lawyers, auditors, investors, consultants and other professional advisors,
+third-party partners and potential third-party partners (for instance, third parties
+with whom OpenAI is exploring a strategic partnership), and administrators of the
+Company's benefits programs. The Company expects such third parties to
+process any data disclosed to them in accordance with applicable law, including
+with respect to data confidentiality and security.
+We may also disclose personal data to third parties that provide us with services,
+such as hosting, supporting and maintaining the framework of our HR information
+systems, or providing services on our behalf (payroll provider) In these cases,
+these third parties act as a "data processor" to carry out tasks upon our
+instructions for the above mentioned purposes. In this case your personal data
+will only be disclosed to these parties to the extent necessary to provide the
+required services.
+
+Business transfers
+
+If we are involved in strategic transactions, reorganization, bankruptcy,
+receivership, or transition of service to another provider (collectively, a
+“Transaction”), your Personal Information and other information may be
+disclosed in the diligence process with counterparties and others assisting with
+the Transaction and transferred to a successor or affiliate as part of that
+Transaction along with other assets.
+
+Certain
+Data contained in such systems may be accessible by providers of those
+interconnecting
+systems, their associated companies and sub-contractors.
+systems such as
+local payroll and
+benefits systems.
+National or other
+government
+authorities
+
+In order to comply with a legal obligation to which we are subject, or to establish,
+exercise or defend legal rights. This is for example the case in the framework of
+imminent or pending legal proceedings or a statutory audit.
+
+Disclosures and sharing are made on the basis of your consent, where required by applicable laws.
+
+5.0 SECURITY OF DATA
+OpenAI has implemented appropriate technical, physical and organizational measures aimed at providing
+a level of security appropriate to the risk.
+If you are in possession of personal data of any kind (e.g., data collected in emails, address books, Excel
+spreadsheets or contained in curricula vitae or elsewhere) you must ensure that the data are kept in a safe
+place where unauthorized access cannot occur. Where data is retained in hard copy, storage in a locked
+drawer or cabinet, accessible only to authorized individuals, is generally the most effective means of
+securing the data. Where data is kept in electronic form, appropriate password protection and
+appropriately secured areas should be used. You must comply with the security obligations contained in
+the Company's applicable policies.
+You should not create, copy or export personal data relating to any other person outside of official
+company storage locations and systems except where necessary for a specific authorized and lawful
+purpose under this Data Privacy Notice. In this event appropriate measures must be taken to protect the
+confidentiality and integrity of the data during the processing. Once the relevant processing is complete,
+steps should be taken to store or return the relevant data within the official storage locations/systems with
+all less formally held records (e.g. local folders, hard copies, emails saved outside of formal managed
+folders) securely erased.
+
+6.0 RETENTION OF PERSONAL DATA
+
+Subject to applicable law, the Company endeavors to ensure that personal data are kept as current as
+possible and that irrelevant or excessive data are deleted or made anonymous as soon as reasonably
+practicable.
+The Company’s general approach is to only retain personal data for as long as is required to satisfy the
+purpose for which it was collected by us or provided by you. This will usually be the period of your
+employment/contract with us, plus the length of any applicable statutory limitation period, or mandatory
+retention period (e.g., for tax or pensions information), following your departure. If you are an applicant and
+are unsuccessful in your application, the Company may retain your personal data to periodically notify you
+of new job openings. If you do not want us to retain your personal data for these purposes, you can let us
+know by responding to our email notifications or contacting us at hr@OpenAI.com.
+
+7.0 NOTICE OF CHANGES
+The Company may change or update this Data Privacy Notice at any time, and we will inform you that we
+have updated the Data Privacy Notice in accordance with applicable law.
+COUNTRY/JURISDICTION SPECIFIC ADDENDUMS
+European Union and UK Addendum
+US and Canada Addendum
+Japan Addendum
+Singapore Addendum
+
+EUROPEAN UNION AND UNITED KINGDOM DATA PRIVACY/FAIR PROCESSING
+NOTICE
+DATA CONTROLLER
+The OpenAI entity to which you submit an application for employment or with which you have your
+contract (the “Company”), along with OpenAI OpCo, LLC and OpenAI Ireland Limited, act as joint
+controllers of your personal data - which means OpenAI and those two affiliates jointly determine how to
+use your personal data in connection with your application and employment - but only as described in
+this Policy. The Company will be primarily responsible for providing you with any information to which
+you are entitled, and responding to your requests, under data protection law.
+CONTACTS
+You may contact the Company’s Data Protection Officer (“DPO”) at any time if you have any concerns
+about the processing of your personal data or any data protection issue. The DPO can be reached at
+privacy@OpenAI.com (please put in your subject line, “Attention: DPO”).
+If you have any questions regarding the processing of your personal data or if you believe your privacy
+rights have been violated, please contact your local Human Resources contact hr@OpenAI.com or,
+where applicable, the DPO. If you are aware of an unauthorised disclosure of data, please report this
+immediately to privacy@OpenAI.com.
+LEGAL BASES FOR PROCESSING
+Personal data
+
+Whenever the Company processes your personal data we do so on the basis of a lawful condition (“legal
+basis”) for processing. Processing of special categories of data is always justified on the basis of an
+additional condition.
+In the majority of cases, the processing of your personal data will be justified on one of the following
+bases:
+
+●
+
+●
+
+●
+
+the processing is necessary for compliance with a legal obligation to which the Company is
+subject (for example, disclosing the information to tax authorities, making statutory payments,
+avoiding unlawful termination, avoiding unlawful discrimination, meeting statutory record keeping
+requirements or health and safety obligations);
+where there is no legal obligation we will process your data where the processing is necessary
+for the performance of a contract to which you are a party or in order to take steps at your
+request prior to entering into such a contract (for example collecting bank details to pay your
+salary or processing information to provide you with the contractual benefits you are entitled to);
+or
+where the above two grounds do not apply, we may process your personal data where the
+processing is necessary for the legitimate interests pursued by the Company (being those
+purposes described in the section above), except where such interests are overridden by your
+interests or fundamental rights and freedoms which require protection of personal data (for
+example reviewing your performance at work).
+
+We will on occasion process your personal data for the purpose of legitimate interests pursued by a third
+party, except where such interests are overridden by your interests or fundamental rights and freedoms
+which require protection of personal data.
+In exceptional circumstances where we have no legitimate interest in processing but you ask us to
+process data for a particular purpose we will occasionally carry out the processing on the basis of your
+consent (for example if you ask us to provide pay information to a bank for a mortgage application made
+by you). Where we rely on your consent, we will make this clear at the relevant time to you.
+In some circumstances, data will sometimes be collected indirectly from monitoring devices or by other
+means (for example, building and location access control and monitoring systems, CCTV, telephone logs
+and recordings, instant message logs and email and Internet access logs), if and to the extent permitted
+by applicable laws. In these circumstances, the data may be collected by OpenAI or a third party
+provider of the relevant service. This type of data is generally not accessed on a routine basis but
+access is possible. Access can occur, for instance, in situations where OpenAI is investigating possible
+violations of Company policies such as those relating to travel and expense reimbursement, use of the
+telephone system and the Internet, or employee conduct generally, or where the data are needed for
+compliance or billing purposes. More frequent access to such data may occur incidental to an email
+surveillance program, if and to the extent permitted by applicable laws.
+Special categories of data
+The special categories of personal data that may be processed by the Company are set out in this Data
+Privacy Notice. Where we process special categories of data it will be justified by a legal basis set out
+above and also by one of the following additional conditions:
+●
+●
+●
+●
+●
+●
+
+the processing is necessary for the purposes of carrying out the obligations and exercising the
+rights of you or the Company in the field of employment law, social security and social protection
+law, to the extent permissible under applicable laws;
+the processing is necessary for the assessment of your working capacity, medical diagnosis, the
+provision of health or social care or treatment, or the management of health or social care
+systems and services, to the extent permitted by applicable laws;
+the processing is necessary to protect your vital interests or of another person where you are
+physically or legally incapable of giving consent (for example in exceptional emergency
+situations, such as a medical emergency);
+the processing is necessary for purposes authorised by applicable law.
+the processing is necessary for the establishment, exercise or defence of legal claims; or
+in exceptional circumstances the processing is carried out subject to your explicit consent (as
+explained below).
+
+We will occasionally seek your consent to certain processing which is not otherwise justified under one
+of the above conditions. If consent is required for the processing in question, it will be sought from you
+separately to ensure that it is freely given, informed and explicit. Information regarding such processing
+will be provided to you at the time that consent is requested, along with the impact of not providing any
+such consent. You should be aware that it is not a condition or requirement of your employment to agree
+to any request for consent from the Company.
+Personal data relating to criminal convictions and offences will only be processed where authorised by
+applicable laws. For example, an allegation of a criminal offence or conviction arising during your
+relationship with the Company may be processed where required or authorised by applicable law where
+we have a legal or regulatory requirement to report an offence; or where applicable laws authorise the
+Company to process information about the offence (e.g. in a disciplinary process) for the purpose of
+making decisions regarding your relationship with the Company.
+
+INTERNATIONAL TRANSFER OF PERSONAL DATA
+
+From time to time your personal data (including special categories of personal data) will be transferred to
+OpenAI entities to process for the purposes described in this Data Privacy Notice. This will be applicable
+for example where the relevant entity or a manager from that entity is responsible for conducting or
+approving the relevant process or the data is part of a global directory where other individuals need to
+have access.
+These entities or managers are located within the European Union, United Kingdom and elsewhere in
+the world (for example, OpenAI OpCo, LLC based in the United States).
+Personal data may also be transferred to third parties (e.g. service providers or regulators as set out
+above), who may have systems or suppliers located outside the European Union or the United Kingdom.
+As a result, in some circumstances your personal data will be transferred to countries outside of the
+country in which you work or outside of the European Union or United Kingdom to countries whose data
+protection laws may be less stringent than yours.
+The Company will ensure that appropriate or suitable safeguards are in place to protect your personal
+information and that transfer of your personal information is in compliance with applicable data
+protection laws.
+Where required by applicable data protection laws, the Company has ensured that service providers
+(including other OpenAI group entities) sign standard contractual clauses or similar transfer mechanisms
+as approved by the European Commission, UK government or other supervisory authority with
+jurisdiction over the relevant Company exporter. You can obtain a copy of any standard contractual
+clauses in place which relate to transfers of your personal data by contacting privacy@OpenAI.com.
+OpenAI has an intra-group data transfer agreement in place which regulates cross-border transfers of
+your data within the OpenAI group.
+
+YOUR RIGHTS AS A DATA SUBJECT
+Subject to the conditions and limitations set forth in GDPR, you have the following rights in respect of your
+personal data.
+
+Right
+
+Description
+
+Right to access, correct
+and delete your personal
+data
+
+The Company aims to ensure that all personal data are correct. You also
+have a responsibility to ensure that changes in personal circumstances (for
+example, change of address and bank accounts) are notified to the
+Company so that we can ensure that your data is up-to-date.
+You have the right to request access to any of your personal data that the
+Company may hold, and to request correction of any inaccurate data
+relating to you. You furthermore have the right to request deletion of any
+irrelevant data we hold about you.
+If you are an employee, you can see and update some of this data
+yourself via your applicable HR system account. However, to correct /
+update certain information, you will need to contact hr@OpenAI.com.
+
+Where we are relying upon your consent or the fact that the processing is
+necessary for the performance of a contract to which you are party as the
+legal basis for processing, and that personal data is processed by
+automatic means, you have the right to receive all such personal data
+which you have provided to the Company in a structured, commonly used
+and machine-readable format, and also to require us to transmit it to
+another controller where this is technically feasible.
+
+Data portability
+
+Right to restriction
+processing
+
+of
+
+You have the right to restrict our processing of your personal data where:
+● you contest the accuracy of the personal data until we have taken
+sufficient steps to correct or verify its accuracy;
+● where the processing is unlawful but you do not want us to erase the
+data;
+● where we no longer need the personal data for the purposes of the
+processing, but you require them for the establishment, exercise or
+defence of legal claims; or
+● where you have objected to processing justified on legitimate interest
+grounds (see below) pending verification as to whether the Company
+has compelling legitimate grounds to continue processing.
+Where personal data is subjected to restriction in this way we will only
+process it with your consent or for the establishment, exercise or defence of
+legal claims.
+
+Right to withdraw
+consent
+
+Where we have relied on your consent to process particular information
+and you have provided us with your consent to process data, you have the
+right to withdraw such consent at any time. You can do this by:
+in some cases deleting the relevant data from the relevant HR system
+(although note that in this case it may remain in back-ups and linked
+systems until it is deleted in accordance with our data retention policy); or
+contacting your local Human Resources contact. It will only however be
+rarely that we rely on your consent to process personal data for your
+employment or engagement.
+
+Right to object to
+processing justified on
+legitimate interest
+grounds
+
+Right to complain
+
+Where we are relying upon legitimate interest to process data, then you
+have the right to object to that processing. If you object, we must stop
+that processing unless we can either demonstrate compelling legitimate
+grounds for the processing that override your interests, rights and
+freedoms or where we need to process the data for the establishment,
+exercise or defence of legal claims. Where we rely upon legitimate
+interest as a basis for processing we believe that we can demonstrate
+such compelling legitimate grounds, but we will consider each case on
+an individual basis.
+You also have the right to lodge a complaint with a supervisory authority if
+you consider that the processing of your personal data infringes applicable
+law. For a list of supervisory authorities please see here. We would request
+that you contact us in the first instance to allow us to remedy any
+complaints.
+
+France: You have the right to issue directives concerning the disposition of
+
+Right to control your digital
+your personal data after your death, in the conditions set forth in Art. 85 of
+legacy
+
+the January 6, 1978 Law on Computing Technologies and Freedoms.
+
+13
+
+U.S. / CANADA
+
+OpenAI U.S. and Canada Privacy Policy for Employees, Applicants, Contractors, and
+Guests
+Last Updated: October 1, 2024
+OpenAI, D.B.A. Summerlight Technologies Ltd (“OpenAI”, "we", “us”, or “our”) respects your privacy
+and is committed to protecting your personal information.
+This Privacy Policy (“Policy”) outlines how we collect and use personal information about you leading
+up to, during, and after your employment, contractual engagement, or other relationship you may
+have with us. This Policy applies to current and former employees, job applicants, current or former
+independent contractors, and guests (“you”).
+This Policy describes the categories of personal information that we collect, how we use your
+personal information, how we secure your personal information, and when we may share your
+personal information with third parties. This Policy also describes your rights regarding the personal
+information that we hold about you and how you can access your personal information. We will only
+use your personal information in accordance with this Policy, unless otherwise required by applicable
+law. To the extent this Policy conflicts with applicable law in your jurisdiction, applicable law will
+control.
+This Policy does not cover your use of OpenAI products as a user or customer, or outside of your
+employment, working relationship, or other assignment with OpenAI. To learn more about OpenAI’s
+data collection practices that cover your use of OpenAI ’s website, products, and services, please
+read our Privacy Policy, available at https://OpenAI.com/privacy.
+This Policy is not intended and shall not be read to create any express or implied promise or contract
+for employment, for any benefit, or for specific treatment in specific situations. Canadian employees
+should review the section below “Additional Information for Canadian Residents” that is specific to
+Canadian residents. Nothing in this notice should be construed to interfere with OpenAI’s ability to
+process your data for purposes of complying with our legal obligations, or for investigating alleged
+misconduct or violations of company policy or law, subject to compliance with local legal
+requirements.
+Collection of Personal Information
+In this Policy “Personal Information” means information that directly identifies an individual (such as a
+name) or that is associated with an identified individual (such as a home address in combination with
+a name), or information that can be used to identify a specific individual (such as a mobile phone
+number or home address), or as the term may otherwise be defined in applicable law.
+We collect, use, and store (collectively “process”) different types of Personal Information about you in
+the operation of our business. For example, if you are an employee, we process Personal
+Information about you primarily for managing our employment relationship with you and managing
+your interactions with workplace facilities/information systems. If you are a former employee, we
+process Personal Information about you primarily for legal compliance. If you are an independent
+contractor, we process your Personal Information to manage your engagement with OpenAI and
+access to our facilities and information systems. If you are a candidate, we process your Personal
+Information to engage with you about OpenAI career opportunities and consider your application for
+employment.
+The Personal Information we process includes the following:
+
+Categories of
+Personal
+Information
+
+Examples of Personal Information
+
+Categories of
+Collection Sources
+
+Identifiers
+
+First and last name, mailing address,
+employee or contractor ID, photo, signature,
+telephone number, email address, tax
+information, payroll information,
+withholdings, and other similar identifiers.
+
+You, service providers,
+public sources.
+
+Professional or
+employment-related
+information
+
+Current or past job history or performance
+evaluations, resume, cover letter, job title,
+wage and benefit information, compensation,
+disciplinary or employment records, job
+restrictions, payroll information, and
+workplace illness and injury information.
+
+You, your references,
+other employees,
+service providers,
+public sources.
+
+Education
+information
+
+Educational history, academic degrees,
+professional qualifications, certifications,
+and skills.
+
+You, service providers,
+public sources.
+
+Internet or other
+electronic network
+activity
+
+Application data, such as emails sent and
+received from your work email address,
+OpenAI systems and software usage data,
+OpenAI device information and activity; and
+cookies when you interact with our recruiting
+website as described more fully in our
+Privacy Policy at www.OpenAI .com/privacy.
+
+You, service
+providers, your
+devices.
+
+Sensitive Personal
+Information
+
+Social Security number or social insurance
+number driver’s license number, passport
+number, state identification number, racial
+or ethnic origin, citizenship or immigration
+status, religious or philosophical beliefs,
+medical information, financial account
+information, and health insurance
+information.
+
+You.
+
+Protected
+classification
+characteristics
+
+Age (40 years or older), race, national origin,
+citizenship, religion or creed, marital status,
+medical condition, physical or mental
+disability, sex (including gender, gender
+identity, gender expression, pregnancy or
+childbirth and related medical conditions),
+sexual orientation, and veteran or military
+status.
+
+You.
+
+If you are employed in Canada, these
+characteristics may differ by province and
+are any characteristic protected by
+applicable provincial human rights
+legislation. This may include but is not
+limited to: indigenous identity, race, colour,
+ancestry, place of origin, political belief,
+religion, marital status, family status,
+physical or mental disability, sex, sexual
+orientation, gender identity or expression,
+or age of that person or because that
+person has been convicted of a criminal or
+summary conviction offence that is
+unrelated to the employment.
+Biometric information Fingerprint and handprint scans for
+employee- only for the purpose of providing
+access to OpenAI offices in certain
+locations.
+
+You.
+
+Geolocation data
+
+You, service providers.
+
+Physical location or building access data.
+
+Electronic, visual,
+and audio
+information
+
+Video conference or call recordings or
+video surveillance for security purposes
+
+You, service providers.
+
+Inferences drawn
+from other
+Personal
+Information
+
+Summary about an employee's abilities, job
+performance, or preferences.
+
+You.
+
+The categories above include categories of Personal Information we have collected in the preceding
+12 months. It is important that the Personal Information we hold about you is accurate and current.
+Please keep us informed if your information changes during your employment by emailing
+HR@OpenAI.com.
+How We Collect Personal Information
+
+We will collect information from the following sources:
+Directly from you. For example, if you visit our office, respond to our employment offer, submit
+information via our websites or applications, complete forms or surveys that we provide to you,
+exercise your employment rights, provide documents, or otherwise voluntarily provide Personal
+Information to us.
+From other employees or third parties. For example, when collecting feedback from colleagues
+as part of regular employee reviews or information on your past employment performance or
+conduct from your references or recruiters.
+From our service providers. For example, we hire vendors to conduct background checks in
+accordance with applicable law. We also use staffing agencies to manage our contingent
+workforce who may collect Personal Information from personnel on our behalf.
+From your activities at work based on, for example, office building entry, OpenAI systems and
+software usage, your work computer, and Internet logs.
+We may also collect publicly available information about you from third parties.
+
+How We Use Your Personal Information
+We use Personal Information as needed in performance of our employment or other relationship with
+you or to comply with our legal obligations, including for the following legitimate business purposes:
+●
+
+Managing our recruitment process and our employment relationship with you including:
+o
+
+evaluating an applicant’s qualifications and suitability for employment;
+
+o
+
+administering pre- and post-employment tests and training activity;
+
+o
+
+conducting criminal and other background checks;
+
+o
+
+completing the employment onboarding process;
+
+o
+
+timekeeping, payroll, direct deposit authorization, and expense report administration;
+
+o
+
+administration of benefits, leaves of absence, and maintaining emergency contact
+information;
+
+o
+
+employee training and development;
+
+o
+
+workers’ compensation claims management;
+
+o
+
+performing workforce analytics, data analytics and benchmarking; or
+
+o
+
+other human resource purposes.
+
+●
+
+Preparing and maintaining legally required records, such as I-9 forms, EEO-1 forms, and
+affirmative action plans, or, if you are employed in Canada, T4s or other tax or regulatory
+reporting forms.
+
+●
+
+Conducting accounting activities, workplace investigations, and internal audits.
+
+●
+
+Meeting tax obligations, complying with applicable law, and complying with health and safety
+obligations.
+
+●
+
+Maintaining commercial insurance policies and coverages, including for workers’
+compensation and other liability insurance.
+
+●
+
+Managing and monitoring employee access to company facilities, equipment, and systems.
+
+●
+
+Preventing and detecting unlawful and inappropriate use of company credit cards, systems
+and assets and countering loss of company data.
+
+●
+
+Investigating and enforcing compliance with company policies and procedures.
+
+●
+
+Detecting and preventing unlawful and inappropriate use of company resources and
+countering loss of company data.
+
+●
+
+Detecting, protecting against, responding to, and security incidents, malicious, deceptive,
+fraudulent, or illegal activity; and then prosecuting those responsible for that activity.
+
+●
+
+Exercising or defending the legal rights of the company, its employees or affiliates.
+
+●
+
+Conducting business management and planning including internal administration with our
+affiliated entities.
+
+●
+
+Engaging in corporate transactions, such as evaluating potential mergers and acquisitions,
+which require review of employee records.
+
+Data Sharing
+
+We may share your Personal Information with our trusted affiliates, contractors, and vendors
+(collectively, “service providers”) who provide services to us or on our behalf, or otherwise support
+our relationship with you. These service providers include, but are not limited to, payroll processors
+and benefits or leave administration providers.
+As part of protecting your Personal Information, we require all our service providers to implement
+appropriate security measures consistent with our policies and data security obligations. We do not
+permit our providers to use your Personal Information for purposes unrelated to the terms of their
+engagement with us. As such, we only permit them to use your Personal Information for those
+purposes specified in accordance with our instructions.
+We may also share your Personal Information for the following additional purposes where permitted
+or required by applicable law:
+● Complying with court orders, subpoenas, lawful discovery requests and as otherwise
+permitted or required by law or regulation. We may be required by law at times, to provide
+certain information to government or law enforcement agencies, or to parties to civil
+lawsuits.
+● Detecting and preventing fraud or other illegal or unauthorized activities.
+● During emergency situations or where necessary to protect the safety of persons.
+● Where the Personal Information is publicly available.
+● If a business transfer or change in ownership occurs.
+● For additional purposes with your consent where such consent is required by law.
+
+Data Storage, Retention and Disposal
+The information we collect may be processed and stored in the United States or in other countries
+where we or our affiliates or service providers process our data. We take steps to ensure that data is
+processed according to this Policy and to ensure Personal Information is adequately protected in
+accordance with applicable law. Your personal information may be subject to access by local
+government authorities in accordance with applicable law.
+Except as otherwise permitted or required by applicable law or regulation, we will only retain your
+information for as long as necessary to fulfill the purposes we collected it for, including for the
+purposes of satisfying any operational, legal, accounting, or reporting requirements. Under some
+circumstances we may anonymize your information so that it can no longer be associated with you.
+We reserve the right to use such anonymous and de-identified data for any legitimate business
+purpose without further notice to you or your express consent. Once you are no longer an employee
+or contractor of OpenAI we will retain or destroy your Personal Information in accordance with our
+records retention policy and applicable laws and regulations.
+If you are an applicant and are unsuccessful in your application, the Company may retain your
+personal data to periodically notify you of new job openings. If you do not want us to retain your
+personal data for these purposes, you can let us know by responding to our email notifications or
+contacting us at hr@OpenAI.com.
+Additional Information for California Residents
+
+This section supplements the above Policy and applies solely to California residents. We have
+issued this notice to comply with the California Consumer Privacy Act of 2018 (CCPA), as
+amended by the California Privacy Rights Act (CPRA) and implementing regulations.
+This section does not address or apply to our information practices that are not subject to the
+CCPA, including publicly available, deidentified, or aggregate information, or information covered
+by the Health Insurance Portability and Accountability Act, California Confidentiality of Medical
+Information Act, or the Fair Credit Reporting Act.
+How we Share Your Personal Information
+
+We do not sell your Personal Information and do not share your Personal Information for targeted
+advertising purposes. We have not sold or shared your Personal Information for targeted advertising
+purposes in the preceding 12 months. We do not have actual knowledge that we sell or share the
+Personal Information of individuals under 16 years of age. We do not share your sensitive Personal
+Information for purposes other than for the purposes of managing and facilitating your employment
+or contract relationship with us or as otherwise authorized by you.
+Your California Rights
+
+The CCPA provides California residents with specific rights regarding their Personal Information.
+●
+
+Right to Know: You may have the right to request information about the Personal
+Information we have collected about you, the purpose of our collection, and the source of the
+data. You may also have the right to know the categories of third parties to whom we have
+disclosed your Personal Information, for what purpose, and what Personal Information has
+been disclosed.
+
+●
+
+Right to Access: You may have the right to request information about how we process your
+Personal Information and to obtain a copy of that Personal Information.
+
+●
+
+Right to Portability: You may obtain a copy of your Personal Information in a structured,
+commonly used, and machine-readable format and to have that information transmitted to
+another organization in certain circumstances.
+
+●
+
+Right to Correction: You may have the right to request that we modify or correct errors in
+the Personal Information that we have collected from you. However, please note that we may
+not accommodate a request to change Personal Information if we believe that doing so
+would violate any law, legal requirement or rights of another person, or cause the information
+to be incorrect.
+
+●
+
+Right to Deletion: You may have the right to request the deletion of your Personal
+Information that we have collected from you.
+
+●
+
+Right to Limit Use and Disclosure. Subject to certain conditions and exceptions, you may
+have the right to limit the use and disclosure of sensitive Personal Information. However, we
+do not engage in activities triggering this right.
+
+Note, this section only applies to rights and practices pursuant to the CCPA. These rights are in
+addition to any rights that may be available to you under the California Labor Code. To the extent you
+wish to exercise any rights pursuant to the Labor Code, please contact hr@OpenAI.com.
+1.
+
+Rights around Automated Decision-Making Technology
+
+We do not use your personal information for automated decision-making. If OpenAI were to use
+automated decision-making technology, it may be used to infer information about your work
+performance, economic situation, health, personal preferences, interests, reliability, behavior,
+location, and movement. If OpenAI were to use automated decision-making, you would have the
+right to request information about such automated decision- making technology and processing, and
+its results. You would also have the right to opt-out of decision-making technology and profiling and
+the right to opt-out of cross-context behavioral advertising.
+2.
+
+How to Exercise Your Rights
+
+If you have any questions regarding the information contained in this Policy or would like to exercise
+your California rights, please contact us using either method below:
+Send an email to: hr@OpenAI.com
+Call us at: 1 (844) 534-9165
+You can also reach out to our Data Protection / Privacy Officer at privacy@OpenAI.com (please put
+in the subject line, “Attention: DPO”).
+When submitting a request, we may require additional information from you or take other steps to
+verify your identity and your right to access the Personal Information we hold about you. This is done
+to protect your privacy and maintain security. We may charge you a reasonable fee in instances that
+require a disproportionate effort, but we will advise you of any fee in advance. We may decline to
+process requests that are frivolous or unreasonably repetitive or burdensome, risk the privacy or
+impact the rights of others, or are extremely impractical. An authorized agent may also submit a
+request on your behalf.
+3.
+
+Non-Discrimination
+
+California law ensures that you are free from discrimination or retaliation when you exercise your
+California privacy rights, and we will not discriminate or retaliate against you for exercising any
+rights.
+
+Additional Information for Canadian Residents
+This information supplements the above policy and applies to Canadian residents. In general, the
+employer is permitted under Canadian law to collect, use and disclose personal information about
+employees without consent but with notice where reasonable to establish, manage or terminate the
+employment relationship. We process the personal information of applicants and employees in
+accordance with this notice. In circumstances where consent may be required by applicable law, we
+will seek your consent.
+If you are a contractor or guest, by sharing your personal information with us you consent to
+the processing of that personal information in accordance with this policy.
+We will retain your personal information for the period required as long as necessary to fulfill the
+purposes we collected it for, including for the purposes of satisfying any legal, accounting, or
+reporting requirements. If we use your personal information to make a decision that affects you, we
+will retain it for at least one year so you may exercise your right to access it.
+4.
+
+Rights under Canadian Law
+
+●
+
+Right to Access: you may have the right to request information about how we process your
+Personal Information and to obtain a copy of that Personal Information.
+
+●
+
+Right to Correction: you may have the right to request that we correct errors in the Personal
+Information that we have collected from you.
+
+An individual’s right to access or seek correction of their personal information is not absolute
+but is subject to limitations permitted or required by applicable law.
+5. Questions, Complaints and Requests for Access or Correction
+
+Questions regarding the information contained in this Policy, requests to access or correct your
+personal information or complaints can be directed to:
+Send an email to: hr@OpenAI.com
+Call us at: 1 (844) 534-9165
+You can also reach out to our Privacy Officer at privacy@OpenAI.com (please put in the subject line,
+“Attention: DPO”).
+When submitting a request, we may require additional information from you or take other steps to
+verify your identity Personal Information we hold about you. This is done to protect your privacy
+and maintain security. We will respond to any requests in accordance with applicable law.
+
+JAPAN Additional Clauses Applicable to Employees, Applicants and
+Candidates Special Categories of Personal Data
+The special categories of personal data of you and your family member that may be processed by us
+are set out in this Privacy Notice. We will obtain your consent to collect special categories of
+personal data. You shall ensure to obtain consent upon providing the special categories of personal
+data of your family members to us.
+International data transfer
+
+Due to the global nature of our operations, we may transfer or disclose your personal data to
+personnel, servers or organizations outside of Japan, including the United States, Canada, the UK,
+and Ireland. Where we share your personal information, we will put in place contractual measures to
+ensure they process your personal data in accordance with our instructions and have in place
+technical and organizational measures to protect your personal data with a level of protection
+comparable to that required under the Act on the Protection of Personal Information (“APPI”).
+Data Subject Rights
+
+In Japan, you have rights under the APPI such as:
+●
+
+the right to access to, or obtain a copy of your personal data;
+
+●
+
+the right to request deletion or cessation of processing of your personal data if your personal
+data has been used beyond the scope necessary to achieve the purpose(s) for which they
+were collected, processed or obtained by deceit or in violation of the APPI, if our use of your
+personal data triggers illegal acts, is no longer necessary in relation to the purposes for
+which they were collected, compromised or otherwise processed in a manner which could
+harm the rights or legitimate interest of you;
+
+●
+
+the right to request cessation of transferring of your personal data if your personal data is
+transferred to a third party in violation of the APPI or the transfer could harm your rights or
+legitimate interest;
+
+●
+
+the right to request disclosure of the following information (we may refuse your request to the
+extent we are permitted to do so in accordance with APPI):
+o data security measures we have implemented; and
+o in case where your personal data has been shared with foreign companies including
+our subsidiaries and affiliates and external foreign service providers, (i) measures to
+ensure the data recipients take sufficient data security measures (the “Measures”)
+and the details of the Measures, (ii) measures and frequency that we audit the data
+recipients’ implementation of the Measures, (iii) name of the recipient country and
+rules of the country that could hinder the implementation of the Measures, and (iv)
+other obstacles that could hinder the implementation of the Measures and measures
+that we have conducted to solve such obstacles.
+
+Processing of My Numbers
+
+We may directly obtain from you and process your (including your family member’s) Individual
+Number prescribed in Article 2 (5) of Act on the Use of Numbers to Identify a Specific Individual in
+the Administrative Procedure (the “My Number Act”) (“Individual Number”) for the purpose of tax,
+social insurance or disaster recovery purposes in accordance with the My Number Act and other
+relevant laws and regulations.
+
+Contact Information
+If you have any complaints regarding our processing of your personal data, questions on this Privacy
+Notice, our use of your personal data, international transfer or our data protection measures
+implemented, and/or want to confirm the measures to exercise your privacy rights above, please
+contact Privacy@OpenAI.com.
+
+SINGAPORE Additional Clauses Applicable to Employees, Interns, Secondees and
+Applicants
+In Singapore, you have specific rights under the Personal Data Protection Act (2012):
+●
+You have the right to request access to any of your personal data that was used or disclosed
+within a year before your request. You may also request correction of any inaccurate data relating to you.
+The Company aims to ensure that all personal data are correct. You also have a responsibility to ensure
+that changes in personal circumstances (for example, change of address and bank accounts) are notified
+to the Company so that we can ensure that your data is up-to-date. You can see and update some of this
+data yourself via your applicable HR system account. However, to correct/update certain information, you
+will need to contact hr@OpenAI.com.
+●
+We will cease to retain your personal data or dispose of it in a proper manner when it is no longer
+needed for any business or legal purpose.
+●
+Due to the global nature of our operations, we may transfer or disclose your personal data to
+personnel, servers, OpenAI entities and managers, and service providers outside of Singapore, including
+the United States, Canada, Japan, the UK, and Ireland. Where we share your personal data, we will put in
+place contractual measures to ensure recipients process your personal data in accordance with our
+instructions and have in place technical and organizational measures to protect your personal data with a
+level of protection comparable to the protection under Singapore’s Personal Data Protection Act.
+●
+We will notify you of any data breach that is or is likely to be of significant scale, or results in or is
+likely to result in significant harm to you.
+●
+At your request, we will transmit your personal data that is in the organisation’s possession or
+under its control, to another organisation in a commonly used machine-readable format. Our Data
+Protection Officer ("DPO") is responsible for compliance with personal data protection law. Please contact
+our DPO (privacy@OpenAI.com, please put in the subject line, “Attention: DPO”) at any time if you have
+any concerns about the processing of your personal data or any data protection issue. If you have any
+questions regarding the processing of your personal data or if you believe your privacy rights have been
+violated, please contact your local Human Resources contact hr@OpenAI.com or, where applicable, the
+DPO. If you are aware of an unauthorised disclosure of data, please report this immediately to
+privacy@OpenAI.com.
+CONSENT LANGUAGE FOR SINGAPORE
+By signing below, I acknowledge and consent to my personal data (including sensitive personal data such
+as social security number, passport number, medical information etc.) to be collected, used, transferred
+and processed by the Company and OpenAI.
+I also consent to the Company’s and OpenAI’s sharing of my personal data with third parties for purposes
+described in this Global Data Privacy Notice for Employees, Applicants and Candidates.
+Signature: ____________________
+Name:_______________________
+Date: _______________________
+
+
